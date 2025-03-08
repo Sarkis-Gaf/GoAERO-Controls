@@ -7,7 +7,7 @@
 [GoAERO](https://www.herox.com/goaero)
 
 ## Understanding our ecosystem 
-![Ecosystem](https://imgur.com/a/WWUrtJm)
+![Ecosystem](https://i.imgur.com/2MKV78E.jpeg)
 
 Here is an example of how our control system environment will be setup 
 
