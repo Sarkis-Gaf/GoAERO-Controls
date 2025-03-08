@@ -3,6 +3,8 @@
 ## Here are the main things you need
 
 ----------------------------------------------------------------------------
+## GoAERO Rules
+[GoAERO](https://www.herox.com/goaero)
 
 ## Understanding our ecosystem 
 ![Ecosystem](blob:https://imgur.com/1465131f-63c1-49c5-addb-01730c779022)
@@ -20,16 +22,18 @@ Now, here are some tutorials and information that will help you guys:
 These are tutorials on technologies and concepts we will use in this project. 
 -------------------------------------------------------------------------------
 
-#### As of 3/8/25 here are our objectives:
+#### As of 3/8/25, here are our objectives:
 
 1. Start on conducting a power draw ASAP
-2. Create our software infastructure
+2. Create our software infrastructure
 3. Create a block diagram of our control system
 4. Start writing code on our components
 
 
-### These tasks will be dedicated into these 3 teams:
+### These tasks will be dedicated to these 3 teams:
 
 Aero: Eli, Jordan, Ernesto
+
 Hardware Integration: Michelle, Liz, Pyson
+
 Flight Software: Kevin, Howard, Iker, Samuel
